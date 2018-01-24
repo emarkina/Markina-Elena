@@ -1,5 +1,8 @@
 <html>
 <head>
+	<meta charset="utf-8">
+	<title>Markina Elena</title>
+	<script defer src="https://use.fontawesome.com/releases/v5.0.4/js/all.js"></script>
 </head>
 
 <body>
