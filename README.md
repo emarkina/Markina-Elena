@@ -4,7 +4,7 @@
 
 <body>
 	<h1>Маркина Елена</h1>
-	<img src="" alt="Фото" width='200'>
+	<img src="resume.jpeg" alt="Фото" width='200'>
 	<ul>
 		<li>26 Лет</li>
 		<li>Проживаю в г. Москва</li>
