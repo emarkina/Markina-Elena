@@ -1,7 +1,5 @@
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>Markina Elena</title>
 </head>
 
 <body>
